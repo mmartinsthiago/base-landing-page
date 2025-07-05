@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="38.317039mm"
+   height="38.215755mm"
+   viewBox="0 0 38.317039 38.215755"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="x-logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.7652076"
+     inkscape:cx="3.4355468"
+     inkscape:cy="103.78968"
+     inkscape:window-width="1856"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-70.174011,-52.319287)">
+    <path
+       id="rect922"
+       style="fill:#000000;fill-opacity:1;stroke-width:2"
+       d="M 30.066406 0 C 13.409469 0 0 13.409469 0 30.066406 L 0 114.36914 C 0 131.02608 13.409469 144.4375 30.066406 144.4375 L 114.75391 144.4375 C 131.41085 144.4375 144.82031 131.02608 144.82031 114.36914 L 144.82031 30.066406 C 144.82031 13.409469 131.41085 0 114.75391 0 L 30.066406 0 z M 25.878906 28.417969 L 54.494141 28.417969 L 75.417969 56.859375 L 98.966797 28.417969 L 112.60352 28.417969 L 81.833984 65.580078 L 118.94336 116.01953 L 90.326172 116.01953 L 66.681641 83.880859 L 40.072266 116.01953 L 26.435547 116.01953 L 60.265625 75.160156 L 25.878906 28.417969 z M 38.615234 36.339844 L 92.568359 108.09766 L 106.20508 108.09766 L 52.251953 36.339844 L 38.615234 36.339844 z "
+       transform="matrix(0.26458333,0,0,0.26458333,70.174011,52.319287)" />
+  </g>
+</svg>

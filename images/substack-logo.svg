@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="38.351627mm"
+   height="38.351624mm"
+   viewBox="0 0 38.351627 38.351624"
+   version="1.1"
+   id="svg59131"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="substack-logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview59133"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.9552971"
+     inkscape:cx="30.430159"
+     inkscape:cy="109.95772"
+     inkscape:window-width="1856"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs59128" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-69.736482,-45.772162)">
+    <path
+       id="rect59270"
+       style="opacity:1;fill:#000000;stroke-width:0.340903"
+       d="m 73.251381,45.772162 c -1.947161,0 -3.514899,1.567405 -3.514899,3.514567 v 31.322156 c 0,1.947162 1.567738,3.5149 3.514899,3.5149 h 31.322159 c 1.94716,0 3.51457,-1.567738 3.51457,-3.5149 V 49.286729 c 0,-1.947162 -1.56741,-3.514567 -3.51457,-3.514567 z m 8.893779,10.780733 h 13.579541 c 0.295056,0 0.532323,0.237607 0.532323,0.532661 v 0.05959 0.667159 0.532662 H 95.724701 82.14516 81.612502 v -0.532662 -0.667159 -0.05959 c 0,-0.295054 0.237603,-0.532661 0.532658,-0.532661 z m -0.532658,3.727299 h 14.644522 v 1.792073 H 81.612502 Z m 0,3.735288 h 14.626884 v 9.045591 c -0.01243,0.332511 -0.255133,0.450688 -0.569618,0.502032 l -6.743824,-4.463369 -6.671586,4.463369 c -0.382916,-0.04827 -0.58894,-0.221184 -0.641856,-0.502032 z" />
+  </g>
+</svg>

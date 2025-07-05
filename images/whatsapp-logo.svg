@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="38.345661mm"
+   height="38.150997mm"
+   viewBox="0 0 38.345661 38.150997"
+   version="1.1"
+   id="svg23723"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="whatsapp-logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview23725"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.9105941"
+     inkscape:cx="115.71132"
+     inkscape:cy="77.226117"
+     inkscape:window-width="1856"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs23720" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-42.280782,-96.910183)">
+    <path
+       id="rect23862"
+       style="opacity:1;fill:#000000;stroke-width:0.511102"
+       d="m 49.219598,96.910183 c -3.844058,0 -6.938816,3.094257 -6.938816,6.938317 v 24.27387 c 0,3.84406 3.094758,6.93881 6.938816,6.93881 h 24.468029 c 3.844058,0 6.938816,-3.09475 6.938816,-6.93881 V 103.8485 c 0,-3.84406 -3.094758,-6.938317 -6.938816,-6.938317 z m 12.916815,4.847487 c 7.614634,1.7e-4 13.787397,6.17315 13.787287,13.78779 1.08e-4,7.61463 -6.172653,13.78762 -13.787287,13.78778 -2.276578,-0.003 -4.516931,-0.57013 -6.521048,-1.6501 l -7.553734,1.98352 2.114786,-6.89539 c -1.043466,-2.02179 -1.824472,-4.61167 -1.827789,-7.22581 -1.1e-4,-7.61483 6.172955,-13.7879 13.787785,-13.78779 z m -0.02545,2.48364 c -6.259561,-1e-4 -11.334187,5.07403 -11.334095,11.33359 0.0027,2.14889 0.996491,4.97789 1.854243,6.63984 l -1.0816,4.13973 4.491612,-1.10755 c 1.647429,0.88776 4.198441,1.65942 6.06984,1.66208 6.259399,-1.4e-4 11.333185,-5.0747 11.333098,-11.3341 8.9e-5,-6.2594 -5.073699,-11.33346 -11.333098,-11.33359 z m -3.661474,4.9907 1.415917,3.51137 -1.118037,1.6481 c 0.988746,1.78168 1.866232,3.59681 5.147959,4.68677 l 1.736686,-1.79629 c 1.23583,0.4052 2.307101,0.96066 3.252075,1.63145 0.07282,0.46519 0.237436,0.87193 -0.05692,1.57087 -0.310382,0.5416 -0.667945,0.94545 -1.074113,1.20738 -0.966926,0.71071 -2.052733,0.44294 -3.142802,0.48969 -4.791708,-1.6591 -7.85248,-4.53085 -9.411151,-8.61192 -0.138371,-1.08668 -0.02164,-1.71969 0.02195,-2.48264 0.4303,-0.65515 0.897069,-1.2829 1.584727,-1.81751 0.479424,-0.0691 0.938097,-0.15548 1.643708,-0.0373 z"
+       sodipodi:nodetypes="sssssssssccccccccccccccccccccccccccccc" />
+  </g>
+</svg>

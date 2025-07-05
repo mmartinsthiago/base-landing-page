@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="38.339619mm"
+   height="38.339619mm"
+   viewBox="0 0 38.339619 38.339619"
+   version="1.1"
+   id="svg65010"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="twitch-logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview65012"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.3826038"
+     inkscape:cx="22.783099"
+     inkscape:cy="89.685851"
+     inkscape:window-width="1856"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs65007" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-43.38095,-11.458811)">
+    <path
+       id="rect67023"
+       style="opacity:1;fill:#000000;stroke-width:0.340796"
+       d="m 51.276479,11.458811 c -4.374156,0 -7.895529,3.521375 -7.895529,7.89553 V 41.9029 c 0,4.374158 3.521373,7.895531 7.895529,7.895531 h 22.548562 c 4.374155,0 7.895528,-3.521373 7.895528,-7.895531 V 19.354341 c 0,-4.374155 -3.521373,-7.89553 -7.895528,-7.89553 z m 5.696223,7.838105 h 15.049489 v 10.29638 l -3.788462,3.883437 h -3.809446 l -3.318008,3.244571 v -3.244571 h -4.133573 z m -3.371019,2.674175 v 14.682297 h 5.059013 v 3.966814 L 57.02074,42.223714 V 37.764913 H 52.300763 V 22.96887 Z m 8.627161,0.613466 c -0.06864,0 -0.123688,0.05504 -0.123688,0.123687 v 5.420686 c 0,0.06864 0.05505,0.124242 0.123688,0.124242 h 1.630014 c 0.06864,-2e-6 0.123687,-0.05559 0.123687,-0.124242 v -5.420686 c 0,-0.06864 -0.05504,-0.123687 -0.123687,-0.123687 z m 5.133004,0 c -0.07231,0 -0.130313,0.05504 -0.130313,0.123687 v 5.420686 c 0,0.06864 0.05801,0.124242 0.130313,0.124242 h 1.71726 c 0.07231,-2e-6 0.130311,-0.05559 0.130311,-0.124242 v -5.420686 c 0,-0.06864 -0.05801,-0.123687 -0.130311,-0.123687 z m 4.660343,9.315167 v 0.473764 L 66.8163,37.764913 h -5.23129 l 1.136924,-1.111525 h 4.663656 z" />
+  </g>
+</svg>

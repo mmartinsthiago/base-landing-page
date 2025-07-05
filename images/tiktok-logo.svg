@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="38.37291mm"
+   height="37.845123mm"
+   viewBox="0 0 38.372909 37.845123"
+   version="1.1"
+   id="svg13670"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="tiktok-logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview13672"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.7652076"
+     inkscape:cx="77.209392"
+     inkscape:cy="69.072571"
+     inkscape:window-width="1856"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs13667" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-74.515191,-37.229945)">
+    <path
+       id="rect19155"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.475747"
+       d="m 83.728146,37.229945 c -5.104162,0 -9.212955,4.108792 -9.212955,9.212955 v 19.419216 c 0,5.104162 4.108793,9.212954 9.212955,9.212954 h 19.946534 c 5.10417,0 9.21342,-4.108792 9.21342,-9.212954 V 46.4429 c 0,-5.104163 -4.10925,-9.212955 -9.21342,-9.212955 z m 10.272701,6.564754 h 4.465238 c 0.450845,3.079915 2.256005,5.09965 5.984005,5.876218 v 4.735635 c -1.3804,-0.01696 -2.40299,-0.346294 -3.48586,-0.652758 -0.9372,-0.297604 -1.699101,-0.954159 -2.447967,-1.636775 v 10.463185 c -0.231709,1.167671 -0.964183,2.39093 -2.006595,3.461711 -0.703699,0.708566 -2.067024,1.780106 -3.932347,2.37316 -1.422915,0.131597 -2.759322,0.137674 -4.066151,-0.0511 -1.343355,-0.466334 -2.107641,-1.092616 -2.98782,-1.68695 -0.958017,-0.883619 -1.906857,-1.989527 -2.298361,-3.42408 -0.327797,-1.461044 -0.396654,-3.023127 0,-4.767691 0.293462,-1.224181 0.93161,-2.316072 1.895555,-3.283307 0.911229,-0.895593 1.88917,-1.489354 3.538369,-2.042832 0.681434,-0.217725 1.90188,-0.228717 3.103505,0 v 4.367675 c -2.366668,-0.196013 -4.40616,0.871233 -4.560017,3.529078 0.08121,0.600042 0.419757,2.490719 2.918597,2.919061 1.334692,0.157325 2.665568,0.228646 3.879849,-2.240285 z" />
+  </g>
+</svg>

@@ -1,0 +1,147 @@
+// sass --style=compressed css/blp.scss css/blp.min.css
+
+// Set the main font;
+$blp-main-font: serif;
+
+// set the path to images directory
+$blp-images-dir: '/images/';
+
+// Set colors map to the land page
+$blp-texts: (
+    "dar": #360000,
+    "whi": #ffe3ee,
+);
+
+$blp-colors: (
+    "main": (
+        "def": #e00031,
+        "dar": #ad0109,
+        "whi": #eb3489
+    ),
+    "comp": (
+        "def": #00e0af,
+        "dar": #02a0ac,
+        "whi": #21f894
+    )
+);
+
+// create text colors .blp-text-{dark || white}
+@each $shade-name, $shade in $blp-texts {
+    .blp-text-#{$shade-name} {
+        color: $shade !important;
+    }
+}
+
+// create background colors .blp-bg-color-{main || comp}-{def || dar || whi}
+@each $blp-color, $shades in $blp-colors {
+    @each $shade-name, $shade-value in $shades {
+        .blp-bg-color-#{$blp-color}-#{$shade-name} {
+            background-color: $shade-value !important;
+        }
+    }
+}
+
+* {
+    font-family: $blp-main-font;
+}
+
+body {
+    background-color: map-get($blp-texts, 'whi');
+    color: map-get($blp-texts, 'dar');
+}
+
+header, footer {
+    background-color: map-get(map-get($blp-colors, 'main'), 'def');
+}
+
+.blp-donate {
+    position: fixed;
+    top: 5vh;
+    z-index: 5;
+    color: map-get(map-get($blp-colors, 'main'), 'def');
+    animation-name: blp-donate;
+    animation-duration: 0.8s;
+    animation-direction: alternate;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+
+@keyframes blp-donate {
+    0% {text-underline-offset: 0.1;}
+    100% {text-underline-offset: 0.375em;}
+}
+
+.blp-donate:hover .blp-social-media {
+    background-color: map-get(map-get($blp-colors, 'comp'), 'whi');
+    width: 13vh;
+    height: 13vh;
+    mask-size: 13vh;
+    transition: background-color 0.25s linear, mask-size 0.25s linear, width 0.25s linear, height 0.25s linear;
+}
+
+.blp-caller {
+    margin-left: -1000%;
+    position: absolute;
+}
+
+.blp-logo {
+    position: relative;
+    top: 30vh;
+}
+
+.blp-logo > img {
+    transform-origin: center center;;
+    height: 40vh;
+    animation-name: blp-logo;
+    animation-duration: 4s;
+    animation-timing-function: normal;
+    animation-direction: linear;
+    animation-iteration-count: infinite;
+}
+
+@keyframes blp-logo {
+    0% {transform: rotate(15deg);}
+    50% {transform: rotate(-15deg);}
+    100% {transform: rotate(15deg);}
+}
+
+.blp-border {
+    border-color: map-get(map-get($blp-colors, 'main'), 'def' ) !important;
+}
+
+#blp-social-media-list {
+    position: relative;
+    margin-top: 35vh;
+    margin-bottom: 10vh;
+    display: flex;
+}
+
+.blp-social-media {
+    background-color: map-get(map-get($blp-colors, 'comp'), 'def');
+    width: 12vh;
+    height: 12vh;
+    mask-size: 12vh;
+    transform: scale(0.75);
+    mask-position: center;
+    mask-repeat: no-repeat;
+    transition: background-color 0.25s linear, mask-size 0.25s linear, width 0.25s linear, height 0.25s linear;
+
+    &:hover {
+        background-color: map-get(map-get($blp-colors, 'comp'), 'whi');
+        width: 13vh;
+        height: 13vh;
+        mask-size: 13vh;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    #blp-social-media-list {
+        flex-direction: column;
+    }
+
+    #blp-table-text {
+        margin-top: 5vh;
+        margin-bottom: 5vh;
+    }
+}
+

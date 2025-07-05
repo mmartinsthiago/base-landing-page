@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="38.360641mm"
+   height="38.360645mm"
+   viewBox="0 0 38.360641 38.360645"
+   version="1.1"
+   id="svg28111"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="tumblr-logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview28113"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.7652076"
+     inkscape:cx="127.47687"
+     inkscape:cy="150.44078"
+     inkscape:window-width="1856"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs28108" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-109.76142,-89.515626)">
+    <path
+       id="path28250"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.340984"
+       d="m 128.94192,89.515626 a 19.180363,19.180363 0 0 0 -19.1805,19.180144 19.180363,19.180363 0 0 0 19.1805,19.1805 19.180363,19.180363 0 0 0 19.18014,-19.1805 19.180363,19.180363 0 0 0 -19.18014,-19.180144 z m -3.15544,7.576848 h 4.27469 v 5.181936 h 5.16938 v 4.27648 h -5.11628 v 7.72716 c -0.12011,1.03563 0.85942,2.00925 2.67975,2.04049 1.04023,-0.19813 2.09714,-0.439 3.39148,-1.28428 l 0.0556,3.74879 c -2.66988,1.48691 -3.65773,1.44656 -5.3778,1.51637 -2.39015,-0.12189 -4.77884,-0.24776 -6.10317,-3.45462 v -10.29391 h -3.11741 v -3.18844 c 3.61717,-0.39851 4.25241,-3.05284 4.14375,-6.269976 z" />
+  </g>
+</svg>
