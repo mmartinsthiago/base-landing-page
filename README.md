@@ -19,7 +19,7 @@ This script checks if you have **npm** and **PHP** installed. If any of them is 
 * A footer with copyright.
 
 ## Here in 1440px Width:
-![Screenshot 1440px](images/examples/1440px-screencapture.png)
+![1440px-screencapture](https://github.com/user-attachments/assets/ce447134-d701-485e-821a-e333135c09a0)
 
 ## Here in 375ppx Width:
-![Screenshot 375px](images/examples/375px-screencapture.png)
+![375px-screencapture](https://github.com/user-attachments/assets/e15dcd85-2f80-43e3-93a6-c793c71aff76)
