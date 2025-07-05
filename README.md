@@ -12,7 +12,7 @@ This script checks if you have **npm** and **PHP** installed. If any of them is 
 * Bootstrap and jQuery;
 * A customizable css/blp.scss to simplify CSS editing;
 * A sample HTML landing page to use as a base;
-* A hidden <h1> element for SEO purposes;
+* A hidden *h1* element for SEO purposes;
 * A Patreon link;
 * An animated logo;
 * An array of social media icons (<social_media>-logo.svg) with hover effects (URLs must be configured);
