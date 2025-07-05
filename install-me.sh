@@ -15,7 +15,4 @@ if ! command -v php &> /dev/null; then
     sudo apt update && sudo apt install -y php
 fi
 
-echo "Creating blp.min.css ..."
-sass --style=compressed css/blp.scss css/blp.min.css
-
 echo "✅ Setup concluded succefully!"
