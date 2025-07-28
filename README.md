@@ -12,14 +12,14 @@ This script checks if you have **npm** and **PHP** installed. If any of them is 
 * Bootstrap and jQuery;
 * A customizable css/blp.scss to simplify CSS editing;
 * A sample HTML landing page to use as a base;
-* A hidden <h1> element for SEO purposes;
+* A hidden *h1* element for SEO purposes;
 * A Patreon link;
 * An animated logo;
 * An array of social media icons (<social_media>-logo.svg) with hover effects (URLs must be configured);
 * A footer with copyright.
 
 ## Here in 1440px Width:
-![Screenshot 1440px](images/examples/1440px-screencapture.png)
+![1440px-screencapture](https://github.com/user-attachments/assets/ce447134-d701-485e-821a-e333135c09a0)
 
 ## Here in 375ppx Width:
-![Screenshot 375px](images/examples/375px-screencapture.png)
+![375px-screencapture](https://github.com/user-attachments/assets/e15dcd85-2f80-43e3-93a6-c793c71aff76)
